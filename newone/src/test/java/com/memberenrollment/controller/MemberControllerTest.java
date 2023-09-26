@@ -1,11 +1,6 @@
 package com.memberenrollment.controller;
-//package com.memberenrollment.controller;
 
-
-
-//import com.memberenrollment.Member;
 import org.example.com.memberenrollment.Member;
-//import org.example.com.memberenrollment.MemberRepository;
 import org.example.com.memberenrollment.Controller.MemberController;
 import org.example.com.memberenrollment.repository.MemberRepository;
 import org.junit.jupiter.api.BeforeEach;
