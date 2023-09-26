@@ -1,4 +1,3 @@
-//package org.example.memberenrollment.Controller;
 package org.example.com.memberenrollment.Controller;
 
 import org.example.com.memberenrollment.Member;
