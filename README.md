@@ -1,6 +1,6 @@
 ## MemberEnrollment
 
-This project aboutdeveloping a RESTful API for member enrollment which clients to create new member enrollments by providing basic member information. The project uses local database for data storage.
+This project is about developing a RESTful API for member enrollment which clients to create new member enrollments by providing basic member information. The project uses local database for data storage.
 
 ## Prerequisites
 
